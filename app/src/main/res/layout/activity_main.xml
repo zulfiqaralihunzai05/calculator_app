@@ -10,7 +10,7 @@
     tools:context=".MainActivity">
 
 
-    <!-- Display Section -->
+
     <TextView
         android:id="@+id/tvsec"
         android:layout_width="match_parent"
